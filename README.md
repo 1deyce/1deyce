@@ -29,7 +29,7 @@
 I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 - 🌐: I’m working as a Junior Software Developer and contributing to frontend and backend for building web applications.
 
-- 🔭: Exploring technologies such as Python, TypeScript & AWS.
+- 🔭: Exploring new horizons such as Vue, Python, TypeScript & AWS.
 
 - ⚡: In my free time, I develop websites & further my knowledge through small projects.
 
