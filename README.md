@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/keenan-deyce-5b9ab3219/">
+  <a href="https://www.linkedin.com/in/keenan-deyce">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="https://twitter.com/kDeyce30">
