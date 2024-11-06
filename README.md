@@ -27,7 +27,6 @@
 
 ### :man_technologist: About Me : 
 I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-- 🌐: I’m working as a Junior Software Developer and contributing to frontend and backend for building web applications.
 
 - 🔭: Exploring new horizons such as Vue, Next, TypeScript & AWS.
 
