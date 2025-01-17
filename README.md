@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 Exploring New Horizons<br>Passionate about diving into new technologies like Vue, Next.js, TypeScript, Golang and AWS.<br><br>⚡ Side Projects<br>In my free time, I enjoy building websites and enhancing my skills through various small projects.
+
 
 
 ## 🌐 Socials:
